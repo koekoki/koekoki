@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**koekoki/koekoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koekoki&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koekoki&layout=compact&theme=dark&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+  <table>
+    <tr>
+        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koekoki&hide=hack&layout=compact&theme=dark" /></td>
+        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=koekoki&theme=dark&show_icons=true"/></td>
+    </tr>   
+  </table>
+  <hr>
+    <h3> Deseja ver o que ando estudando? 👀 Acesse meu <a href="https://codepen.io/kaiky-matsumoto">CodePen</a>!</h3>
+</center>
