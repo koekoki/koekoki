@@ -11,5 +11,5 @@
     </tr>   
   </table>
   <hr>
-    ### 📢 Meus status do github:
+   ### 📢 Meus status do github:
 </center>
