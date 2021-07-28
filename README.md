@@ -11,5 +11,5 @@
     </tr>   
   </table>
   <hr>
-    <h3> Deseja ver o que ando estudando? 👀 Acesse meu <a href="https://codepen.io/kaiky-matsumoto">CodePen</a>!</h3>
+    ### 📢 Meus status do github:
 </center>
