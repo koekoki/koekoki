@@ -1,4 +1,6 @@
-### Olá! bem vindo ao meu perfil. 👋
+### Olá! bem vindo(a) ao meu perfil. 👋
+
+Atualmente, cursando o 3o ano do Técnico Integrado em Informática no IFSP - SPO, tenho desenvolvido em diversas linguagens de programação e formatação (como Java, C, Javascript, SQL, HTML5 e CSS3), tendo em vista suas aplicações práticas em projetos e softwares. Assim, estou à procura de uma oportunidade de utilizar meus conhecimentos dentro do mercado de trabalho para dar início a uma carreira na área de T.I.
 
 <center>
   <table>
