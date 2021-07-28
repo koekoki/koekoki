@@ -13,6 +13,5 @@
   <hr>
 
 </center>
-### 📢 Meus status do github:
 
-<p> eae</p>
+###  📢Meus status do Github:
